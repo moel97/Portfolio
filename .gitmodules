@@ -1,0 +1,9 @@
+[submodule "WebScrapping_Proj1"]
+	path = WebScrapping_Proj1
+	url = https://github.com/moel97/WebScrapping_Proj1
+[submodule "TSHIRT"]
+	path = TSHIRT
+	url = https://github.com/moel97/TSHIRT
+[submodule "Telegram_GPT_bot"]
+	path = Telegram_GPT_bot
+	url = https://github.com/moel97/Telegram_GPT_bot
